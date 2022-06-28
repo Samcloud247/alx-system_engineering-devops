@@ -1,2 +1,2 @@
-16-whatsnext
-grep root /etc/passwd --after-context=3
+#!/bin/bash
+grep -i -v;ii "biin" /etc/passwd
